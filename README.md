@@ -32,24 +32,16 @@ Check out the live demo of the game at [https://umagame.ccbp.tech/](https://umag
 ## 📷 Screenshots
 
 ### 📱 Extra Small and Small Screens
-![Extra Small and Small Screens](screenshots/emoji-game-sm-outputs.png)
+![Extra Small and Small Screens](https://assets.ccbp.in/frontend/content/react-js/emoji-game-sm-outputs.png)
 
 ### 💻 Medium, Large, and Extra Large Screens - Game View
-![Medium, Large, and Extra Large Screens - Game View](screenshots/emoji-game-lg-output-v2.png)
+![Medium, Large, and Extra Large Screens - Game View](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lg-output-v2.png)
 
 ### 🏆 Medium, Large, and Extra Large Screens - Won Game
-![Medium, Large, and Extra Large Screens - Won Game](screenshots/emoji-game-won-game-lg-output.png)
+![Medium, Large, and Extra Large Screens - Won Game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-won-game-lg-output.png)
 
 ### 😞 Medium, Large, and Extra Large Screens - Lose Game
-![Medium, Large, and Extra Large Screens - Lose Game](screenshots/emoji-game-lose-game-lg-output.png)
-
-## 🌟 Contributors
-- Umakanth (your-name)
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+![Medium, Large, and Extra Large Screens - Lose Game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lose-game-lg-output.png)
 
 ### 🎮 A Tiny Project for Practice and Learning
 This project may be small, but it provided a great opportunity for me to practice and learn web development skills. I gained valuable experience working with React, JavaScript, and CSS while having fun with emojis! 😄
-
-Feel free to reach out to me if you have any questions or feedback. Happy gaming! 🎉
